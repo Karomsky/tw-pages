@@ -1,1 +1,9 @@
+# basic options
+title: Therapeutic Words
+author: Rova
+email: rova2k723@gmail.com
+description: Word therapy for all ages
+github_username: Karomsky
+
+# build settings
 theme: jekyll-theme-minimal
